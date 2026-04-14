@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Fabrikam – Pitch Perfect Group Activities
+title: Fabrikam – Pitch Perfect Group Activities - by Fast Lane and Nephos
 ---
 
-# Fabrikam – Pitch Perfect Group Activities (Extended Brief)
+# Fabrikam – Pitch Perfect Group Activities (Extended Brief) - by Fast Lane and Nephos
 
 This document supports group-based **Pitch Perfect** activities using the fictitious company **Fabrikam**.  
 Participants work in groups (up to 5 groups, ~4 people per group) and deliver a **5-minute presentation per group**.
